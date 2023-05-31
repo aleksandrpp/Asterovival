@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 187d3a372752cdc49a3891f95f6de26e, type: 3}
+  m_Name: SO_ShipConfig
+  m_EditorClassIdentifier: 
+  Mesh: {fileID: 8547471881871753710, guid: c10552a5526eaa24aa201bd36250ff55, type: 3}
+  Material: {fileID: 2100000, guid: d901ecd79c1465d4da5457e12bb18c3c, type: 2}
+  SubMaterial: {fileID: 2100000, guid: 734d79a6bcdc9d64290cbb6be746b4c9, type: 2}
